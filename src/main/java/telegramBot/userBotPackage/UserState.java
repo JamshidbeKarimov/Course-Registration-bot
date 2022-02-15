@@ -1,0 +1,29 @@
+package telegramBot.userBotPackage;
+
+public enum UserState {
+
+    START_NEW_USER,
+    START_CONTACT_SHARED,
+    START_LOCATION,
+    START_AGE,
+    MAIN_MENU,
+    AVAILABLE_COURSES,
+    COURSE_INFO,
+    REGISTER_FOR_COURSE,
+    DELETE_MESSAGE,
+    MY_BALANCE,
+    MY_COURSES,
+    MY_COURSES_EDIT,
+    PAY,
+    CHOOSE_CARD_TYPE,
+    CHOOSE_CARD,
+    CARD_NUMBER,
+    ADD_CARD,
+    FILL_BALANCE,
+    EDIT_PROFILE,
+    ADMIN,
+    ADMIN_PANEL,
+    STUDENTS,
+    MORE_INFO,
+    DIRECT_MESSAGE,
+}

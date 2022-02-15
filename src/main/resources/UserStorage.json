@@ -1,0 +1,31 @@
+[ {
+  "id" : "f6b86ab1-3010-4f13-bacf-dc933d26fbb6",
+  "name" : "Jamshidbek Karimov",
+  "createdDate" : 1641815108817,
+  "updatedDate" : 1641815108817,
+  "chatId" : "1383654416",
+  "balance" : 0.0,
+  "age" : 18,
+  "phoneNumber" : "+998946236424",
+  "location" : {
+    "longitude" : 69.22844,
+    "latitude" : 41.326673
+  },
+  "userState" : "MY_COURSES_EDIT",
+  "username" : "JamshidbeKarimov"
+}, {
+  "id" : "80d50372-7e4c-428c-8dd3-5d1c43641bf9",
+  "name" : "Maryamxon",
+  "createdDate" : 1641815513030,
+  "updatedDate" : 1641815513030,
+  "chatId" : "1277307328",
+  "balance" : 0.0,
+  "age" : 19,
+  "phoneNumber" : "998999163720",
+  "location" : {
+    "longitude" : 71.795128,
+    "latitude" : 40.377809
+  },
+  "userState" : "REGISTER_FOR_COURSE",
+  "username" : null
+} ]

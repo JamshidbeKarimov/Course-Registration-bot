@@ -1,0 +1,73 @@
+[ {
+  "id" : "9e365a28-f6c7-4fc4-a5e0-4844a1d33890",
+  "name" : "Java - Backend (bootcamp)",
+  "createdDate" : 1640266658983,
+  "updatedDate" : 1640266658983,
+  "courseId" : "731f8b96-2358-48cb-8e0a-ca99905f4e9c",
+  "studentId" : "a35cdb48-d03b-46f8-8720-b6fc2d98ee16",
+  "paid" : false
+}, {
+  "id" : "1cd5bdbe-49ff-4cbc-abc5-0237c7d61189",
+  "name" : "Frontend (bootcamp)",
+  "createdDate" : 1640266666629,
+  "updatedDate" : 1640266666629,
+  "courseId" : "7a860322-ba8b-4b4a-807e-21baf571cd85",
+  "studentId" : "a35cdb48-d03b-46f8-8720-b6fc2d98ee16",
+  "paid" : true
+}, {
+  "id" : "a99904b0-2abd-44d1-8a7b-62c4fea51d8b",
+  "name" : "Android App development (bootcamp)",
+  "createdDate" : 1640288702464,
+  "updatedDate" : 1640288702464,
+  "courseId" : "2f46e35f-c3f8-43fd-94ef-2d1f43662270",
+  "studentId" : "a35cdb48-d03b-46f8-8720-b6fc2d98ee16",
+  "paid" : false
+}, {
+  "id" : "1ff20fef-79fa-4c6b-9863-070b5ab1e1ac",
+  "name" : "Foundation",
+  "createdDate" : 1640316566315,
+  "updatedDate" : 1640316566315,
+  "courseId" : "d034297f-85a1-4c98-bff9-bc03b8883765",
+  "studentId" : "a35cdb48-d03b-46f8-8720-b6fc2d98ee16",
+  "paid" : false
+}, {
+  "id" : "4ed86b0e-b2be-4e97-a223-08b326ba0bdd",
+  "name" : "Java - Backend (bootcamp)",
+  "createdDate" : 1640316596004,
+  "updatedDate" : 1640316596004,
+  "courseId" : "731f8b96-2358-48cb-8e0a-ca99905f4e9c",
+  "studentId" : "d584848d-9ab4-4e25-a69f-770f46665fd9",
+  "paid" : false
+}, {
+  "id" : "404798f9-97fe-4f5c-9faf-76fc9b8ba983",
+  "name" : "Foundation",
+  "createdDate" : 1640413596509,
+  "updatedDate" : 1640413596509,
+  "courseId" : "d034297f-85a1-4c98-bff9-bc03b8883765",
+  "studentId" : "be780acf-8e43-435d-baf2-8e3bf4cd5b5e",
+  "paid" : false
+}, {
+  "id" : "304be5d7-e497-45a1-9fef-ff6608faed94",
+  "name" : "Frontend (bootcamp)",
+  "createdDate" : 1640413614704,
+  "updatedDate" : 1640413614704,
+  "courseId" : "7a860322-ba8b-4b4a-807e-21baf571cd85",
+  "studentId" : "be780acf-8e43-435d-baf2-8e3bf4cd5b5e",
+  "paid" : false
+}, {
+  "id" : "c0763b6c-413a-4b9f-bd26-1f2152eaecd6",
+  "name" : "PDP Start",
+  "createdDate" : 1640442155653,
+  "updatedDate" : 1640442155653,
+  "courseId" : "48c0efb1-4d17-4ffc-909e-c080013fb3c4",
+  "studentId" : "6d357f5a-6217-40bc-bfe1-a04a843d107f",
+  "paid" : false
+}, {
+  "id" : "f9a6c3ce-2857-456f-a933-b9d6ef24dd74",
+  "name" : "Java - Backend (bootcamp)",
+  "createdDate" : 1641815702564,
+  "updatedDate" : 1641815702564,
+  "courseId" : "731f8b96-2358-48cb-8e0a-ca99905f4e9c",
+  "studentId" : "f6b86ab1-3010-4f13-bacf-dc933d26fbb6",
+  "paid" : false
+} ]
